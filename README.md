@@ -23,7 +23,6 @@ This repository contains the EFI folder for macOS on the HP 15 DA3001TU, tailore
 ---
 
 ## 🚧 What's Missing?  
-- **Graphics Acceleration**: Integrated Intel UHD Graphics are not fully accelerated, resulting in reduced performance for graphic-heavy tasks.  
 - **Wi-Fi Support**: No driver available for the Realtek wireless card. You might need a USB Wi-Fi dongle or compatible PCIe card for wireless connectivity.  
 - **SMBIOS Configuration**: You'll need to customize your SMBIOS for iCloud and App Store functionality.  
 
